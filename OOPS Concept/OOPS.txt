@@ -1,0 +1,37 @@
+//DemoProject
+CLASS
+OBJECT
+ACCESS MODIFIER
+instance variable / Local variable
+
+//ConstructorDemo
+CONSTRUCTOR
+	CONSTRUCTOR OVERLOADING / PARAMETERIZED CONSTRUCTOR
+	this key word
+
+//Polymorphism
+POLYMORPHISM
+	METHOD OVERLOADING
+
+ENCAPSULATION
+
+//Inharitance
+INHARITANCE 
+	METHOD OVERRIDING
+	SUPER KEY WORD
+	THIS KEY WORD
+
+//Interface
+INTERFACE
+
+
+
+CONST & FINAL KEYWORD
+	// COnst double PI = 3.14; 	[Early Binding / Compile Time Binding]
+	//Final double PI ;
+	 	PI= (3.13+0.1);		[Run Time Binding, Late binding]
+
+
+ABSTRACTION
+	ABSTRACT METHOD
+	ABSTRACT CLASS
